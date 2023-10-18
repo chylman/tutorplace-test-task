@@ -14,10 +14,15 @@ $color-accent-second: #212121;
 
 $color-neon-blue:                   #2c39f2;
 $color-torch-red:                   #ff1553;
+$color-bunker:                      #1D2532;
+$color-nobel:                       #999999;
+$color-malachite:                   #1dd844;
+$color-pear:                        #cbf62e;
 
 // Gradient
 
 $black-to-right:                    linear-gradient(90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 75%);
+$malachite-to-pear:                 linear-gradient(93deg, #1dd844 1.44%, $color-pear 126.29%);
 
 // Typography
 // ---------------------------------
